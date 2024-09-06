@@ -1,0 +1,5 @@
+a=int(25)
+b=int(30)
+x=float(25.5)
+y=float(30.5)
+print(a,b,x,y)
